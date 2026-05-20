@@ -1,6 +1,7 @@
 # claude-skill-issue
 
-适用于 [Claude Code](https://claude.ai/code) 的自定义 skill，用于在对话之间持久化归档和追踪技术问题。
+适用于 [Claude Code](https://claude.ai/code) 的自定义 skill，用于在对话之间持久化归档和追踪技术问题，或者cc重复解决相同问题，或者团队中其他人遇到过类似问题共享解决方案。
+
 
 [English](README.en.md)
 
